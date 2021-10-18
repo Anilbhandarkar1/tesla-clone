@@ -14,7 +14,7 @@ function Home() {
       />
       <Section
         title="Model Y"
-        description="Oredr Online for Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         backgroundImg="model-y.jpg"
         leftBtnText="Custom order"
         rightBtnText="Existing inventory"
@@ -28,7 +28,7 @@ function Home() {
       />
       <Section
         title="Model X"
-        description="Oredr Online for Touchless Delivery"
+        description="Order Online for Touchless Delivery"
         backgroundImg="model-x.jpg"
         leftBtnText="Custom order"
         rightBtnText="Existing inventory"
